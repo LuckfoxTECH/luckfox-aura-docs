@@ -1,6 +1,6 @@
 # Luckfox Aura Documentation
 
-This repository contains the documentation, hardware resources, firmware files, tools, and example code for Luckfox Aura.
+This repository contains the documentation, hardware resources, tools, and example code for Luckfox Aura.
 
 ## Directory Structure
 
@@ -11,7 +11,6 @@ luckfox-aura-docs/
 │   ├── datasheets/
 │   ├── en/
 │   └── zh/
-├── Firmware/
 ├── Hardware/
 │   ├── 3D Models/
 │   ├── CAD/
@@ -30,9 +29,8 @@ luckfox-aura-docs/
 | `Docs/datasheets/` | Chip datasheets, module specifications, interface documents, and other reference PDFs. |
 | `Docs/en/` | English user manuals, tutorials, quick-start guides, and development notes. |
 | `Docs/zh/` | Chinese user manuals, tutorials, quick-start guides, and development notes. |
-| `Firmware/` | Firmware images, update packages, boot files, and release-related firmware resources. |
 | `Hardware/3D Models/` | 3D model files for mechanical design, enclosure design, and product preview. |
-| `Hardware/CAD/` | CAD design files, PCB layout resources, and hardware design source files. |
+| `Hardware/CAD/` | CAD design files. |
 | `Hardware/Schematic/` | Circuit schematic files and related hardware reference documents. |
 | `other/Tools/` | Utility software, flashing tools, debugging tools, and auxiliary development tools. |
 
